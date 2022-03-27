@@ -1,34 +1,34 @@
 [
-  {
-		"name": "History",
-		"intent": "intent://m.youtube.com/feed/history#Intent;package=com.google.android.youtube;scheme=https;end"
-	},
-  {
-		"name": "Library",
-		"intent": "intent://m.youtube.com/feed/library#Intent;package=com.google.android.youtube;scheme=https;end"
-	},
-  {
-		"name": "Subscriptions",
-		"intent": "intent://m.youtube.com/feed/subscriptions#Intent;package=com.google.android.youtube;scheme=https;end"
-	},
-  {
-		"name": "Trending",
-		"intent": "intent://m.youtube.com/feed/trending#Intent;package=com.google.android.youtube;scheme=https;end"
-	},
-  {
-		"name": "Watch Later",
-		"intent": "intent://m.youtube.com/playlist?list=WL#Intent;package=com.google.android.youtube;scheme=https;end"
-	},
-  {
-		"name": "Watch Later",
-		"intent": "intent://m.youtube.com/playlist?list=WL#Intent;package=com.google.android.youtube;scheme=https;end"
-	},
-  {
-		"name": "Explore",
-		"intent": "intent:#Intent;action=com.google.android.youtube.action.open.explore;end"
-	},
-  {
-		"name": "Search",
-		"intent": "intent:#Intent;action=com.google.android.youtube.action.open.search;end"
-	}
+   {
+      "name":"History",
+      "intent":"intent://m.youtube.com/feed/history#Intent;package=com.google.android.youtube;scheme=https;end"
+   },
+   {
+      "name":"Library",
+      "intent":"intent://m.youtube.com/feed/library#Intent;package=com.google.android.youtube;scheme=https;end"
+   },
+   {
+      "name":"Subscriptions",
+      "intent":"intent://m.youtube.com/feed/subscriptions#Intent;package=com.google.android.youtube;scheme=https;end"
+   },
+   {
+      "name":"Trending",
+      "intent":"intent://m.youtube.com/feed/trending#Intent;package=com.google.android.youtube;scheme=https;end"
+   },
+   {
+      "name":"Watch Later",
+      "intent":"intent://m.youtube.com/playlist?list=WL#Intent;package=com.google.android.youtube;scheme=https;end"
+   },
+   {
+      "name":"Watch Later",
+      "intent":"intent://m.youtube.com/playlist?list=WL#Intent;package=com.google.android.youtube;scheme=https;end"
+   },
+   {
+      "name":"Explore",
+      "intent":"intent:#Intent;action=com.google.android.youtube.action.open.explore;end"
+   },
+   {
+      "name":"Search",
+      "intent":"intent:#Intent;action=com.google.android.youtube.action.open.search;end"
+   }
 ]
