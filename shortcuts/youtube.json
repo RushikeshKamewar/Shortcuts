@@ -20,10 +20,6 @@
       "intent":"intent://m.youtube.com/playlist?list=WL#Intent;package=com.google.android.youtube;scheme=https;end"
    },
    {
-      "name":"Watch Later",
-      "intent":"intent://m.youtube.com/playlist?list=WL#Intent;package=com.google.android.youtube;scheme=https;end"
-   },
-   {
       "name":"Explore",
       "intent":"intent:#Intent;action=com.google.android.youtube.action.open.explore;end"
    },
